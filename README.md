@@ -11,5 +11,10 @@ esse perfil serve para documentar meus projetos da faculdade e profissionais.
 <div>
       <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 
+</div>
 
+<div>
+<a href="https://github.com/JVRPer">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?JVRPer&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?JVRPer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
