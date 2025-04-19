@@ -12,3 +12,6 @@ esse perfil serve para documentar meus projetos da faculdade e profissionais.
       <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 
 </div>
+
+## Minhas estatísticas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVRPer)](https://github.com/anuraghazra/github-readme-stats)
