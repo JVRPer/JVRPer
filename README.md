@@ -1,6 +1,6 @@
-# 👋🏻 Olá, pessoal, tudo bem?
+# 💻 João Vitor, estudante de Ciências da Computação
 
-Me chamo João Vitor, sou estudante de Ciência da Computação em Porto Alegre, programo ativamente já a 1 ano, criando sistemas voltados para a minha faculdade usando Python ou Java.
+Olá pessoal, sou o João Vitor, estudo Ciência da Computação, sou morador de Porto Alegre, sou apaixonado pela **computação** em sí, em tecnologia e obviamente em **programação**, esse perfil serve para documentar meus projetos da faculdade e profissionais.
 <p>
       <img width="400" height="300" src="https://i.imgur.com/y3DicSq.gif">
 </p>
