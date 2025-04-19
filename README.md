@@ -14,4 +14,5 @@ esse perfil serve para documentar meus projetos da faculdade e profissionais.
 </div>
 
 ## Minhas estatísticas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVRPer)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVRPer&hide=contribs,prs,stars&theme=shadow_red)
