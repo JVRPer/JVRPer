@@ -16,3 +16,4 @@ esse perfil serve para documentar meus projetos da faculdade e profissionais.
 ## Minhas estatísticas:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVRPer&hide=contribs,prs,stars&theme=shadow_red)
+
