@@ -15,4 +15,6 @@ esse perfil serve para documentar meus projetos da faculdade e profissionais.
 
 ## Minhas estatísticas:
 
-![Anurag's GitHub stats](https://github-readme-stats-git-master-joao-vitors-projects-1d8a0728.vercel.app/api?username=JVRPer&hide=contribs,prs,stars&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+| ![](https://github-readme-stats-joao-vitors-projects-1d8a0728.vercel.app/api?username=JVRPer&hide=contribs,prs,stars&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Stats:) | ![](https://github-readme-stats-joao-vitors-projects-1d8a0728.vercel.app/api/top-langs/?username=JVRPer&layout=normal&hide=JavaScript,Html,Css,TypeScript,PowerShell,C,Batchfile&langs_count=7&theme=apprentice&hide_progress=true&custom_title=Stats:&card_width=400) 
+| :-: | :-: |
